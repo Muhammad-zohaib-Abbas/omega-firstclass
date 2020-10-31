@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="firstclass-7.superhosting.cz" id="224ad428-bd1b-42f4-a7c9-be4552ad5fc1" port="22" nameFormat="DESCRIPTIVE" username="cst-omega.firstclass.cz" />
+    </configs>
+  </component>
+</project>

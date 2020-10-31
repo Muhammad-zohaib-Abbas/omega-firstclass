@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="abdd0ce6-1ef4-400c-835f-b89a917039de" name="firstclass-7.superhosting.cz" url="http://firstclass-7.superhosting.cz">
+        <fileTransfer rootFolder="/home/www/omega.firstclass.cz/subdomains/www/" accessType="SFTP" host="firstclass-7.superhosting.cz" port="22" sshConfigId="224ad428-bd1b-42f4-a7c9-be4552ad5fc1" sshConfig="cst-omega.firstclass.cz@firstclass-7.superhosting.cz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
